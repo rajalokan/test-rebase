@@ -1,1 +1,5 @@
 This contains bar
+
+First commit
+
+Second commit
