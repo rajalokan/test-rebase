@@ -3,3 +3,6 @@ This contains bar
 First commit
 
 Second commit
+
+This commit will be rebased.
+Second rebase line
